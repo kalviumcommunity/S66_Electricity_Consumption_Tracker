@@ -15,7 +15,7 @@ The Electricity Consumption Tracker is a user-friendly application designed to m
    - Allow users to log daily electricity usage, including timestamps and consumption data (in kWh).
 
 3. **Real-Time Monitoring**  
-   - Integrate with smart meters or allow manual data entry to track electricity usage in real time.
+   - Allow data entry to track electricity usage in real time.
 
 4. **Alerts and Notifications**  
    - Send notifications to users when consumption exceeds predefined thresholds.  
