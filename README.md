@@ -17,22 +17,18 @@ The Electricity Consumption Tracker is a user-friendly application designed to m
 3. **Real-Time Monitoring**  
    - Integrate with smart meters or allow manual data entry to track electricity usage in real time.
 
-4. **Analytics and Insights**  
-   - Generate detailed reports and charts to visualize consumption trends over time.  
-   - Compare usage across different time periods or appliances.
-
-5. **Alerts and Notifications**  
+4. **Alerts and Notifications**  
    - Send notifications to users when consumption exceeds predefined thresholds.  
    - Provide tips for reducing electricity usage.
 
-6. **Gamification (Optional)**  
+5. **Gamification (Optional)**  
    - Introduce rewards or badges for users who successfully reduce their energy consumption.
 
-7. **Search and Filters**  
+6. **Search and Filters**  
    - Search for specific usage logs and filter data by date, appliance, or consumption levels.
 
-8. **Energy-Saving Recommendations**  
-   - Offer AI-driven suggestions to optimize energy use based on user habits.
+7. **Energy-Saving Recommendations**  
+   - Offer suggestions to optimize energy use based on user habits.
 
 ---
 
@@ -47,8 +43,8 @@ The Electricity Consumption Tracker is a user-friendly application designed to m
 - **MongoDB (via Mongoose)** for database management and storing user and consumption data.
 
 ### **Tools and Integrations**  
-- **Chart.js or Recharts** for creating dynamic data visualizations.  
-- **Firebase Auth** (or Passport.js) for user authentication.  
+- **Chart.js or Recharts** (optional) for creating dynamic data visualizations.  
+- **Passport.js** for user authentication.  
 - **Docker** (optional) for containerized development and deployment.  
 - **Twilio API** (optional) for sending SMS alerts.  
 
